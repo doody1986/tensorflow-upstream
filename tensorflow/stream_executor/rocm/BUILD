@@ -342,7 +342,7 @@ cc_library(
         ":rocblas_plugin",
         ":rocm_driver",
         ":rocm_platform",
-        ":miopen_plugin",
+        #":miopen_plugin",
         ":rocfft_plugin",
         ":rocrand_plugin",
     ],
